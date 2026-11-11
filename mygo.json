@@ -1,6 +1,6 @@
 {
-  "name": "mypdf",
-  "identifier": "com.example.mypdf",
+  "name": "MyPDF",
+  "identifier": "com.fazi.mypdf",
   "version": "0.1.0",
   "out": "build"
 }
